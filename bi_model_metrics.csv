@@ -1,0 +1,9 @@
+﻿metrica,valor
+Precisao,0.7596
+Recall,0.9007
+F1,0.8242
+Acuracia,0.8248
+ROC_AUC,0.9042
+PR_AUC,0.8561
+Lift_top10,1.97
+Clientes_teste,3270.0

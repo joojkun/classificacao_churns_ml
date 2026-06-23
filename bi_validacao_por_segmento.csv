@@ -1,0 +1,8 @@
+﻿segmento,clientes,taxa_real_churn,taxa_prevista_churn,precisao
+Atencao,640.0,0.461,0.536,0.682
+Campeoes,897.0,0.025,0.0,0.0
+Em risco (alto valor),80.0,0.625,0.9,0.639
+Hibernando,636.0,0.73,1.0,0.73
+Leais,306.0,0.203,0.02,0.167
+Novos/Promissores,114.0,0.561,1.0,0.561
+Perdidos,597.0,0.894,1.0,0.894

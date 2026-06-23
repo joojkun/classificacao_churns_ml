@@ -1,0 +1,5 @@
+﻿real,previsto,clientes
+Real churn,Previsto churn,1343
+Real churn,Previsto ativo,148
+Real ativo,Previsto churn,425
+Real ativo,Previsto ativo,1354
