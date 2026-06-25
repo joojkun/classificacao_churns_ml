@@ -1,0 +1,8 @@
+﻿segmento,clientes,churn_previsto,valor_total,prob_media_churn
+Campeoes,3002,1,15163247.71,0.03
+Hibernando,2327,2319,836525.52,0.75
+Atencao,2180,1106,2305277.86,0.43
+Perdidos,1712,1712,160683.99,0.9
+Leais,923,85,693705.44,0.2
+Novos/Promissores,435,355,78595.69,0.57
+Em risco (alto valor),319,297,566482.67,0.67
